@@ -1,0 +1,3 @@
+=== FFF Demo
+
+Simple Demo Project with [FFF](https://github.com/meekrosoft/fff) and [CMake](https://cmake.org) with [conan](https://conan.io)
