@@ -1,6 +1,6 @@
 include(GoogleTest)
 add_executable(unitTestGuideLinesTest
-        UI_test_cpp.cpp
+        UI_test.cpp
         fff.h
         )
 target_link_libraries(unitTestGuideLinesTest PUBLIC calculator ${CONAN_LIBS})
